@@ -10,4 +10,5 @@ The automated Python scripts used to perform TDDFT and ΔSCF calculations with G
 # Code
 The code used for prediction with the pre-trained models is provided in the "prediction_code.ipynb" Jupyter notebook.
 # Citation
-The manuscript is currently under revision.
+If you find our work and automated scripts useful in your research, please consider citing our paper.
+"Ghosh, A. P., Roy, K. & Bhattacharyya, K. Δ-machine learning of triplet excitation energies in organic chromophores. Phys. Chem. Chem. Phys. (2026) doi:10.1039/d6cp01296e."
