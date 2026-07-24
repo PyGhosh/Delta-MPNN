@@ -1,5 +1,5 @@
 #  Δ-Machine Learning of Triplet Excitation Energies in Organic Chromophores  
-<img width="800" height="500" alt="TOC" src="https://github.com/user-attachments/assets/4470b700-bd85-4e12-b36f-ab3d140152ef" />
+<img width="600" height="300" alt="TOC" src="https://github.com/user-attachments/assets/4470b700-bd85-4e12-b36f-ab3d140152ef" />
 
 
 # Abstract
