@@ -1,5 +1,6 @@
 #  Δ-Machine Learning of Triplet Excitation Energies in Organic Chromophores  
-<img width="1176" height="1100" alt="github_pic" src="https://github.com/user-attachments/assets/0d81587b-e01d-44ee-bac2-084ef8053891" />
+<img width="884" height="529" alt="TOC" src="https://github.com/user-attachments/assets/4470b700-bd85-4e12-b36f-ab3d140152ef" />
+
 
 # Abstract
 Here, we report Δ-machine learning approch for predicting triplet excitation energies (T₁) of diverse organic chromohores by combining high quality reference data with quantum chemical data. A directed message passing neural network corrects TDDFT, ΔSCF and xTB/sTDA prediction to achieve near chemical accuracy while substantially reducing computational cost. Notably, Δ-ML corrected xTB/sTDA predictions close to TD-DFT quality, enabling rapid high-throughput screening of T₁ energies.
